@@ -1,0 +1,1 @@
+mkdir -p /home/claude/llm_pipeline/{phase1_discovery,phase2_merging,phase3_evaluation,phase4_finetuning,phase5_mlops,configs,utils} && echo "done"
